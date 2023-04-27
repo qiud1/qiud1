@@ -1,4 +1,4 @@
-## Hi, I'm David Qiu
+<h2 align="center"> Hi, I'm David Qiu </h2>
 
 **About Me**
 - Senior CS undergrad at RPI who's worked with Full-Stack, Machine Learning, and DevOps
