@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=qiud1&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qiud1&count_private=true&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](readme-stats-2.vercel.app/api/top-langs/?username=qiud1&count_private=true&langs_count=5&theme=tokyonight)]()
 
 <!--
 **qiud1/qiud1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
