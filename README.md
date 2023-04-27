@@ -1,4 +1,4 @@
-## Hi, I'm David Qiu👋
+## Hi, I'm David Qiu
 
 **About Me**
 - Senior CS undergrad at RPI who's worked on some Full-Stack, Machine Learning, and DevOps projects.
