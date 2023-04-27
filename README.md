@@ -37,7 +37,7 @@
  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=qiud1&count_private=true&theme=tokyonight&showicons=true)]()
-[![Top Langs](https://readme-stats-2.vercel.app/api/top-langs/?username=qiud1&langs_count=5)](https://github.com/qiud1/readme-stats-2)
+
 <!--
 **qiud1/qiud1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
