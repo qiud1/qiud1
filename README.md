@@ -2,7 +2,6 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=qiud1&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qiud1&langs_count=5&count_private=true&theme=tokyonight)]()
 
 
 <!--
