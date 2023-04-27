@@ -1,7 +1,7 @@
 ## Hi, I'm David Qiu
 
 **About Me**
-- Senior CS undergrad at RPI who's worked on some Full-Stack, Machine Learning, and DevOps projects.
+- Senior CS undergrad at RPI who's worked with Full-Stack, Machine Learning, and DevOps
 - I play video games and read in my spare time 🤔
 
 
