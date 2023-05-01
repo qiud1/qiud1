@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm David Qiu </h2>
 
 **About Me**
-- Senior CS undergrad at RPI who's worked with Full-Stack and Machine Learning
+- Senior CS undergrad at RPI who's worked with Full-Stack, DevOps, and Machine Learning
 - I play video games and read in my spare time 🤔
 
 
