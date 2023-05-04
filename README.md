@@ -2,7 +2,7 @@
 
 **About Me**
 - Senior CS undergrad at RPI who's worked with Full-Stack and Machine Learning
-- I play video games and read in my spare time 🤔
+- I read and play video games in my spare time 🤔
 
 
 #### My Languages
