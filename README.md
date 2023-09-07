@@ -2,8 +2,6 @@
 
 **About Me**
 - CS student at RPI who's worked with Full-Stack and Machine Learning
-- I read and play video games in my spare time 🤔
-
 
 #### My Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
