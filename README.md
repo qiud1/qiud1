@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm David Qiu </h2>
 
 **About Me**
-- CS student at RPI who's worked with Full-Stack and Machine Learning
+- CS student at RPI skilled at Full-Stack Development and Machine Learning
 
 #### My Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
